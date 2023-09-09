@@ -51,13 +51,11 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           DISCORD_EMBEDS: |
-            {
-              "embeds": [{
-                "title": "Failed build test",
-                "color": 14177041,
-                "url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-              }]
-            }
+            [{
+              "title": "Failed build test",
+              "color": 14177041,
+              "url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }]
         uses: Ilshidur/action-discord@0.3.2
         with:
           args: '🐒'
@@ -107,13 +105,11 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           DISCORD_EMBEDS: |
-            {
-              "embeds": [{
-                "title": "Failed build test", 
-                "color": 14177041, 
-                "url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-              }]
-            }
+            [{
+              "title": "Failed build test", 
+              "color": 14177041, 
+              "url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }]
         uses: Ilshidur/action-discord@0.3.2
         with:
           args: '🐒'
