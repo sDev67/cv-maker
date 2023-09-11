@@ -1,0 +1,13 @@
+name: Intro to Github Actions
+
+# when does this workflow run ?
+on:
+  push:
+
+# qu'est ce qui va etre executé
+jobs:
+  hello-world:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: echo "Hello World"
