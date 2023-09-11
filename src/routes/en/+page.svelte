@@ -8,7 +8,7 @@
 	let metaData: Partial<IMetaTagProperties> = {
 		title: data.contactInfo.name + ' - Resume',
 		description:
-			'Welcome to my online resume. Here you will find all the information regarding my experiences, skills, training and contact details. Feel free to contact me for any offers or for more information.',
+			'Welcome to my online resume. here you will find all the information regarding my experiences, skills, training and contact details. Feel free to contact me for any offers or for more information.',
 		url: `https://cv.bnei.dev/en`,
 		logoUrl: 'https://cv.bnei.dev/favicon-32x32.png',
 		keywords: ['CV', data.contactInfo.name, ...data.skills.map((skill) => skill.name)],
