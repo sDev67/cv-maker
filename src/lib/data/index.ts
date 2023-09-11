@@ -12,7 +12,7 @@ export const title: ITitle = {
 };
 
 export const contactInfo: IContactInfo = {
-	name: 'Mohammad-Amine BANAEI prof',
+	name: 'Mohammad-Amine BANAEI',
 	nationality: 'Nationalité Française',
 	phone: '+33 6 61 93 90 82',
 	email: 'mohammadamine.banaei@pm.me',
