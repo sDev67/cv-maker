@@ -2,7 +2,7 @@ import type { IExperience } from '$lib/component/experience.svelte';
 
 export const experience: IExperience[] = [
 	{
-		enterprise: 'Netapsys Lyon',
+		enterprise: 'Netapsys LyonN',
 		position: 'Développeur web - Stage',
 		description: `Netapsys est une société d'ingénierie informatique, spécialisée dans les nouvelles technologies et diverses solutions de gestion. Elle propose la conception, le développement et la maintenance d'applications informatiques et de systèmes d'information.`,
 		startDate: new Date('2015-04-01'),
