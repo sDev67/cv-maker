@@ -6,24 +6,24 @@ on:
 
 # qu'est ce qui va etre executé
 jobs:
-  build-test:
+  build-test-with-pnpm:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
           
-      - uses: oven-sh/setup-bun@v1
+      - uses: pnpm/action-setup@v2
         with:
-          bun-version: latest
+          version: latest
 
       - name: Install dependencies
-        run: bun install
+        run: pnpm install
 
       - name: Build
-        run: bun run build
+        run: pnpm run build
 
       - name: Run the server
         run: |
-          bun run preview & 
+          pnpm run preview & 
           sleep 5
 
       - name: Curl the server
