@@ -55,6 +55,22 @@ jobs:
       - name: Curl the server
         run: curl -I http://localhost:4173
 
+      - name: Docker Command
+        run: |
+          mkdir 777 gen
+          docker run -i --init --cap-add=SYS_ADMIN --network host -v ./gen:/home/pptruser/gen ghcr.io/puppeteer/puppeteer:latest node -e "$(cat snapshot.js)" http://localhost:4173 ./gen
+
+      - name: Move snapshot
+        run: |
+          mv ./gen/* ./static
+
+      - name: Commit and push
+        run: |
+          git add .
+          git commit -m "Update snapshot"
+          git push
+
+
   # deploy-netlify:
   #   runs-on: ubuntu-latest
   #   needs: build-test
@@ -87,50 +103,6 @@ jobs:
   #         NETLIFY_SITE_ID: ${{ env.NETLIFY_SITE_ID }}
   #         install_command: pnpm i
   #         build_command: pnpm run build
-
-  generation_snapshoot:
-    runs-on: ubuntu-latest
-    needs: build-test
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: pnpm/action-setup@v2
-        name: Install pnpm
-        with:
-          version: 8
-          run_install: false
-
-      - name: Get pnpm store directory
-        shell: bash
-        run: |
-          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
-
-      - uses: actions/cache@v3
-        name: Setup pnpm cache
-        with:
-          path: ${{ env.STORE_PATH }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
-      - name: Run the server
-        run: |
-          pnpm run preview &
-
-      - name: Docker Command
-        run: |
-          docker run -i --init --cap-add=SYS_ADMIN --network host -v ./gen:/home/pptruser/gen ghcr.io/puppeteer/puppeteer:latest node -e "$(cat snapshot.js)" http://localhost:4173 ./gen
-
-      - name: Move snapshot
-        run: |
-          mv ./gen/* ./static
-
-      - name: Commit and push
-        run: |
-          git add .
-          git commit -m "Update snapshot"
-          git push
 
   deploy-vercel:
     runs-on: ubuntu-latest
