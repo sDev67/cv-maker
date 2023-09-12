@@ -1,49 +1,49 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: https://cv.bnei.dev/?snapshot
+Snapshot-Content-Location: http://localhost:4173/?snapshot
 Subject: CV - Mohammad-Amine BANAEI
-Date: Sat, 9 Sep 2023 22:29:21 -0000
+Date: Tue, 12 Sep 2023 12:52:21 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----"
+	boundary="----MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----"
 
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: text/html
-Content-ID: <frame-B9601A3FC33CDB0F9318318B42DABB93@mhtml.blink>
+Content-ID: <frame-5D81DE129BF7D7C0844C421B3B61F4C1@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/?snapshot
+Content-Location: http://localhost:4173/?snapshot
 
 <!DOCTYPE html><html lang=3D"en" data-theme=3D"professionnal"><head><meta h=
 ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
 	=09
-		<link rel=3D"icon" href=3D"https://cv.bnei.dev/favicon.ico">
+		<link rel=3D"icon" href=3D"http://localhost:4173/favicon.ico">
 		<meta name=3D"viewport" content=3D"width=3Ddevice-width">
 	=09
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/0.3eaae183.css"=
+		<link href=3D"http://localhost:4173/_app/immutable/assets/0.3eaae183.css"=
  rel=3D"stylesheet">
-		<link href=3D"https://cv.bnei.dev/_app/immutable/assets/HeadTags.53b77b=
+		<link href=3D"http://localhost:4173/_app/immutable/assets/HeadTags.53b77b=
 e7.css" rel=3D"stylesheet">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/start.b913f0f4.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+entry/start.ea6a4664.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
 chunks/scheduler.bff07679.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/singletons.ed5c0743.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-entry/app.51ce944d.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/singletons.f6c64552.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+entry/app.3e03422a.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
 chunks/index.aaccf6ff.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/0.b633933f.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/index.2a10abf3.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/stores.5dce4d1d.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-nodes/2.b946b0ea.js">
-		<link rel=3D"modulepreload" href=3D"https://cv.bnei.dev/_app/immutable/=
-chunks/HeadTags.e93602a2.js"><title>CV - Mohammad-Amine BANAEI</title><meta=
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+nodes/0.3c4c8fec.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/index.5f993ce4.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/stores.cdd5aa04.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+nodes/2.717f6d4c.js">
+		<link rel=3D"modulepreload" href=3D"http://localhost:4173/_app/immutable/=
+chunks/HeadTags.39ba93d4.js"><title>CV - Mohammad-Amine BANAEI</title><meta=
  http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge,chrome=3D1"><meta name=
 =3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><meta nam=
 e=3D"robots" content=3D"index,follow"><meta name=3D"googlebot" content=3D"i=
@@ -72,7 +72,7 @@ itez pas =C3=A0 me contacter pour toute proposition ou pour plus d=E2=80=99=
 informations."><!-- HTML_TAG_START --><!-- HTML_TAG_END --><!-- HTML_TAG_ST=
 ART --><!-- HTML_TAG_END -->
 	<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"http://=
-127.0.0.1:4173/_app/immutable/nodes/1.49d5c511.js"></head>
+localhost:4173/_app/immutable/nodes/1.7fd8588c.js"></head>
 	<body data-sveltekit-preload-data=3D"hover">
 		<div style=3D"display: contents"><div class=3D"min-h-screen dark:bg-base-=
 300"> <div class=3D"py-0 dark:bg-base-100 shadow-sm rounded-sm navbar py-6"=
@@ -713,154 +713,154 @@ dow-lg rounded-sm hover:scale-[1.025] transition hover:cursor-pointer" aria=
 ody py-4"><time class=3D"text-sm font-normal text-accent self-start -mb-2">=
 Avr. 2015 -
 							Juil. 2015</time> <h3 class=3D"font-bold text-xl capitalize card-tit=
-le text-left">Netapsys Lyon - De=CC=81veloppeur web - Stage</h3> <div class=
-=3D"flex gap-2 items-center"><p class=3D"text-sm font-normal">Netapsys est =
-une soci=C3=A9t=C3=A9 d'ing=C3=A9nierie informatique, sp=C3=A9cialis=C3=A9e=
- dans les nouvelles technologies et diverses solutions de gestion. Elle pro=
-pose la conception, le d=C3=A9veloppement et la maintenance d'applications =
-informatiques et de syst=C3=A8mes d'information.</p> </div> <ul class=3D"ml=
--4 mt-4"></ul></div></div></li> <dialog id=3D"Netapsys Lyon" class=3D"modal=
- modal-bottom sm:modal-middle"><form method=3D"dialog" class=3D"modal-box m=
-ax-h-[70vh]"><div class=3D"sticky w-[14%] ml-auto -mb-8 -mr-4 top-0" data-s=
-velte-h=3D"svelte-1rf2aif"><button class=3D"btn btn-sm btn-circle bg-opacit=
-y-60" aria-label=3D"close modal">=E2=9C=95</button></div> <h3 class=3D"font=
--bold text-lg text-center w-[85%]">Missions : Netapsys Lyon</h3> <ul class=
-=3D"ml-4 mt-4"> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Haulott=
-eDiag</h4> <p class=3D"mb-2 text-sm font-normal">Participation au d=C3=A9ve=
-loppement de l'application de diagnostic HaulotteDiag pour Haulotte (chario=
-ts =C3=A9l=C3=A9vateurs), optimisation de sa compatibilit=C3=A9 avec leurs =
-v=C3=A9hicules.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"inli=
-ne-flex items-center font-bold rounded-md backend default px-2 py-1 ring-1 =
-ring-inset hover:skew-y-2 transition  svelte-116z7kx">C++</span><span class=
-=3D"inline-flex items-center font-bold rounded-md other default px-2 py-1 r=
-ing-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">QT</span></div>=
- </li></ul></form> <form method=3D"dialog" class=3D"modal-backdrop" data-sv=
-elte-h=3D"svelte-1d3wagh"><button aria-label=3D"close modal">close</button>=
-</form> </dialog></ol></div></div> <div class=3D"divider sm:hidden mx-2 my-=
-14"></div> <div class=3D"px-2 self-center w-full" style=3D"grid-area: educa=
-tion;"><ol class=3D"relative border-l border-blue-100 dark:border-blue-700"=
-><li class=3D"mb-5 ml-4"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded=
--full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gra=
-y-700"></div> <time class=3D"mb-1 text-sm font-normal leading-none text-acc=
-ent">Sept. 2019 - Juil. 2021</time> <div class=3D"card bg-stone-200 dark:bg=
--stone-600 shadow-xl rounded-sm"><div class=3D"card-body p-2"><div class=3D=
-"collapse collapse-open"><input aria-label=3D"collapse education details" t=
-ype=3D"checkbox"> <div class=3D"collapse-title items-center flex justify-be=
-tween"><h3 class=3D"font-semibold card-title text-sm text-left">ESGI - Pari=
-s</h3> <div class=3D"text-sm">Master  RNCP niveau I </div></div> <div class=
-=3D"collapse-content"><p class=3D"mb-4 text-sm font-normal">Formation avanc=
-=C3=A9e en GoLang, Python, NodeJS, React, Docker, Linux, Terraform et Kuber=
-netes. Exploration des technologies cloud et m=C3=A9thodologie Agile.</p> <=
-div><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-=
-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">GOLANG</span=
+le text-left">Netapsys LyonN - De=CC=81veloppeur web - Stage</h3> <div clas=
+s=3D"flex gap-2 items-center"><p class=3D"text-sm font-normal">Netapsys est=
+ une soci=C3=A9t=C3=A9 d'ing=C3=A9nierie informatique, sp=C3=A9cialis=C3=A9=
+e dans les nouvelles technologies et diverses solutions de gestion. Elle pr=
+opose la conception, le d=C3=A9veloppement et la maintenance d'applications=
+ informatiques et de syst=C3=A8mes d'information.</p> </div> <ul class=3D"m=
+l-4 mt-4"></ul></div></div></li> <dialog id=3D"Netapsys LyonN" class=3D"mod=
+al modal-bottom sm:modal-middle"><form method=3D"dialog" class=3D"modal-box=
+ max-h-[70vh]"><div class=3D"sticky w-[14%] ml-auto -mb-8 -mr-4 top-0" data=
+-svelte-h=3D"svelte-1rf2aif"><button class=3D"btn btn-sm btn-circle bg-opac=
+ity-60" aria-label=3D"close modal">=E2=9C=95</button></div> <h3 class=3D"fo=
+nt-bold text-lg text-center w-[85%]">Missions : Netapsys LyonN</h3> <ul cla=
+ss=3D"ml-4 mt-4"> <li class=3D"mb-2"><h4 class=3D"font-semibold mr-2">Haulo=
+tteDiag</h4> <p class=3D"mb-2 text-sm font-normal">Participation au d=C3=A9=
+veloppement de l'application de diagnostic HaulotteDiag pour Haulotte (char=
+iots =C3=A9l=C3=A9vateurs), optimisation de sa compatibilit=C3=A9 avec leur=
+s v=C3=A9hicules.</p> <div class=3D"flex flex-wrap gap-2"><span class=3D"in=
+line-flex items-center font-bold rounded-md backend default px-2 py-1 ring-=
+1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">C++</span><span cla=
+ss=3D"inline-flex items-center font-bold rounded-md other default px-2 py-1=
+ ring-1 ring-inset hover:skew-y-2 transition  svelte-116z7kx">QT</span></di=
+v> </li></ul></form> <form method=3D"dialog" class=3D"modal-backdrop" data-=
+svelte-h=3D"svelte-1d3wagh"><button aria-label=3D"close modal">close</butto=
+n></form> </dialog></ol></div></div> <div class=3D"divider sm:hidden mx-2 m=
+y-14"></div> <div class=3D"px-2 self-center w-full" style=3D"grid-area: edu=
+cation;"><ol class=3D"relative border-l border-blue-100 dark:border-blue-70=
+0"><li class=3D"mb-5 ml-4"><div class=3D"absolute w-3 h-3 bg-gray-200 round=
+ed-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-g=
+ray-700"></div> <time class=3D"mb-1 text-sm font-normal leading-none text-a=
+ccent">Sept. 2019 - Juil. 2021</time> <div class=3D"card bg-stone-200 dark:=
+bg-stone-600 shadow-xl rounded-sm"><div class=3D"card-body p-2"><div class=
+=3D"collapse collapse-open"><input aria-label=3D"collapse education details=
+" type=3D"checkbox"> <div class=3D"collapse-title items-center flex justify=
+-between"><h3 class=3D"font-semibold card-title text-sm text-left">ESGI - P=
+aris</h3> <div class=3D"text-sm">Master  RNCP niveau I </div></div> <div cl=
+ass=3D"collapse-content"><p class=3D"mb-4 text-sm font-normal">Formation av=
+anc=C3=A9e en GoLang, Python, NodeJS, React, Docker, Linux, Terraform et Ku=
+bernetes. Exploration des technologies cloud et m=C3=A9thodologie Agile.</p=
+> <div><span class=3D"inline-flex items-center rounded-md none px-2 py-1 te=
+xt-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">GOLANG</s=
+pan><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-=
+xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">PYTHON</span=
 ><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs =
-ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">PYTHON</span><s=
+ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">NODEJS</span><s=
 pan class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs rin=
-g-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">NODEJS</span><span=
- class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1=
- ring-inset hover:skew-y-2 transition svelte-1e50scj">REACTJS</span><span c=
+g-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">REACTJS</span><spa=
+n class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-=
+1 ring-inset hover:skew-y-2 transition svelte-1e50scj">VUEJS</span><span cl=
+ass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ri=
+ng-inset hover:skew-y-2 transition svelte-1e50scj">DOCKER</span><span class=
+=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-=
+inset hover:skew-y-2 transition svelte-1e50scj">TERRAFORM</span><span class=
+=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-=
+inset hover:skew-y-2 transition svelte-1e50scj">KUBERNETES</span><span clas=
+s=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring=
+-inset hover:skew-y-2 transition svelte-1e50scj">GOOGLE CLOUD</span><span c=
 lass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 r=
-ing-inset hover:skew-y-2 transition svelte-1e50scj">VUEJS</span><span class=
+ing-inset hover:skew-y-2 transition svelte-1e50scj">AWS</span><span class=
 =3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-=
-inset hover:skew-y-2 transition svelte-1e50scj">DOCKER</span><span class=3D=
-"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-ins=
-et hover:skew-y-2 transition svelte-1e50scj">TERRAFORM</span><span class=3D=
-"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-ins=
-et hover:skew-y-2 transition svelte-1e50scj">KUBERNETES</span><span class=
-=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-=
-inset hover:skew-y-2 transition svelte-1e50scj">GOOGLE CLOUD</span><span cl=
-ass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ri=
-ng-inset hover:skew-y-2 transition svelte-1e50scj">AWS</span><span class=3D=
-"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-ins=
-et hover:skew-y-2 transition svelte-1e50scj">AZURE</span><span class=3D"inl=
-ine-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset h=
-over:skew-y-2 transition svelte-1e50scj">GIT</span><span class=3D"inline-fl=
-ex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:s=
-kew-y-2 transition svelte-1e50scj">SQL</span><span class=3D"inline-flex ite=
-ms-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-=
-2 transition svelte-1e50scj">MONGODB</span><span class=3D"inline-flex items=
--center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 =
-transition svelte-1e50scj">LINUX</span><span class=3D"inline-flex items-cen=
-ter rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 tran=
-sition svelte-1e50scj">AGILE</span></div></div></div></div></div> </li><li =
-class=3D"mb-5 ml-4"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-full=
- mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700=
-"></div> <time class=3D"mb-1 text-sm font-normal leading-none text-accent">=
-Sept. 2017 - Juil. 2018</time> <div class=3D"card bg-stone-200 dark:bg-ston=
-e-600 shadow-xl rounded-sm"><div class=3D"card-body p-2"><div class=3D"coll=
-apse collapse-open"><input aria-label=3D"collapse education details" type=
-=3D"checkbox"> <div class=3D"collapse-title items-center flex justify-betwe=
-en"><h3 class=3D"font-semibold card-title text-sm text-left">My Digital Sch=
-ool - Paris</h3> <div class=3D"text-sm">Licence  RNCP niveau II </div></div=
-> <div class=3D"collapse-content"><p class=3D"mb-4 text-sm font-normal">For=
-mation intensive en NodeJS, React, Python, Flutter et Kotlin. Apprentissage=
- de la gestion de bases de donn=C3=A9es SQL et NoSQL et de la m=C3=A9thodol=
-ogie Agile.</p> <div><span class=3D"inline-flex items-center rounded-md non=
-e px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50=
-scj">NODEJS</span><span class=3D"inline-flex items-center rounded-md none p=
-x-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj=
-">PYTHON</span><span class=3D"inline-flex items-center rounded-md none px-2=
- py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">K=
-OTLIN</span><span class=3D"inline-flex items-center rounded-md none px-2 py=
--1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">REAC=
-TJS</span><span class=3D"inline-flex items-center rounded-md none px-2 py-1=
- text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">FLUTTE=
-R</span><span class=3D"inline-flex items-center rounded-md none px-2 py-1 t=
-ext-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">SQL</spa=
-n><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs=
- ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">NOSQL</span><s=
-pan class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs rin=
-g-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">GIT</span><span cl=
-ass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ri=
-ng-inset hover:skew-y-2 transition svelte-1e50scj">AGILE</span></div></div>=
-</div></div></div> </li></ol> <div class=3D"divider my-14"></div> <div clas=
-s=3D"stats shadow w-full"><div class=3D"stat p-0 justify-between"><div clas=
-s=3D"stat-figure text-primary w-72 hidden absolute sm:grid hover:z-20 trans=
-form-gpu transition overflow-y-hidden"><svg version=3D"1.2" baseProfile=3D"=
-tiny" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org=
-/1999/xlink" x=3D"0px" y=3D"0px" width=3D"100%" height=3D"100%" viewBox=3D"=
-9 3 940 530" fill=3D"#262626"><g id=3D"tr"><path d=3D"M558.7,209.19l-2.23,2=
-.36l-8.2-0.24l-4.92-2.95l-4.8-0.12l-5.51,3.9l-5.16,0.24l-0.47,2.95h-5.86l-2=
-.34,2.13v1.18l1.41,1.18v1.3l-0.59,1.54l0.59,1.3l1.88-0.94l1.88,2.01l-0.47,1=
-.42l-0.7,0.95l1.05,1.18l5.16,1.06l3.63-1.54v-2.24l1.76,0.35l4.22,2.48l4.57-=
-0.71l1.99-1.89l1.29,0.47v2.13h1.76l1.52-2.95l13.36-1.42l5.83-0.71l-1.54-2.0=
-2l-0.03-2.73l1.17-1.4l-4.26-3.42l0.23-2.95h-2.34L558.7,209.19L558.7,209.19z=
-"></path><path d=3D"M523.02,209.7l-0.16,3.55l3.1-0.95l1.42-0.95l-0.42-1.54l=
--1.47-1.17L523.02,209.7L523.02,209.7z"></path></g><g id=3D"gr"><path d=3D"M=
-506.71,217.6l-0.11,1.33l4.63,2.33l2.21,0.85l-1.16,1.22l-2.58,0.26l-0.37,1.1=
-7l0.89,2.01l2.89,1.54l1.26,0.11l0.16-3.45l1.89-2.28l-5.16-6.1l0.68-2.07l1.2=
-1-0.05l1.84,1.48l1.16-0.58l0.37-2.07l5.42,0.05l0.21-3.18l-2.26,1.59l-6.63-0=
-.16l-4.31,2.23L506.71,217.6L506.71,217.6z"></path><path d=3D"M516.76,230.59=
-l1.63,0.05l0.68,1.01h2.37l1.58-0.58l0.53,0.64l-1.05,1.38l-4.63,0.16l-0.84-1=
-.11l-0.89-0.53L516.76,230.59L516.76,230.59z"></path></g><g id=3D"id"><path =
-d=3D"M781.68,324.4l-2.31,8.68l-12.53,4.23l-3.75-4.4l-1.82,0.5l3.4,13.12l5.0=
-9,0.57l6.79,2.57v2.57l3.11-0.57l4.53-6.27v-5.13l2.55-5.13l2.83,0.57l-3.4-7.=
-13l-0.52-4.59L781.68,324.4L781.68,324.4z"></path><path d=3D"M831.93,339.34l=
--4.17,0.47l-2.68,1.96l1.11,2.24l4.54,0.84v0.84l-2.87,2.33l1.39,4.85l1.39,0.=
-09l1.2-4.76h2.22l0.93,4.66l10.83,8.96l0.28,7l3.7,4.01l1.67-0.09l0.37-24.72l=
--6.29-4.38l-5.93,4.01l-2.13,1.31l-3.52-2.24l-0.09-7.09L831.93,339.34L831.93=
-,339.34z"></path><path d=3D"M789.53,349.11l2.26,2.77l-1.47,4.16v0.79h3.34l1=
-.18-10.4l1.08,0.3l1.96,9.5l1.87,0.5l1.77-4.06l-1.77-6.14l-1.47-2.67l4.62-3.=
-37l-1.08-1.49l-4.42,2.87h-1.18l-2.16-3.17l0.69-1.39l3.64-1.78l5.5,1.68l1.67=
--0.1l4.13-3.86l-1.67-1.68l-3.83,2.97h-2.46l-3.73-1.78l-2.65,0.1l-2.95,4.75l=
--1.87,8.22L789.53,349.11L789.53,349.11z"></path><path d=3D"M814.19,330.5l-1=
-.87,4.55l2.95,3.86h0.98l1.28-2.57l0.69-0.89l-1.28-1.39l-1.87-0.69L814.19,33=
-0.5L814.19,330.5z"></path><path d=3D"M819.99,345.45l-4.03,0.89l-1.18,1.29l0=
-.98,1.68l2.65-0.99l1.67-0.99l2.46,1.98l1.08-0.89l-1.96-2.38L819.99,345.45L8=
-19.99,345.45z"></path><path d=3D"M722.48,317.57l-0.28,2.28l6.79,11.41h1.98l=
-14.15,23.67l5.66,0.57l2.83-8.27l-4.53-2.85l-0.85-4.56L722.48,317.57L722.48,=
-317.57z"></path><path d=3D"M753.17,358.32l-2.75,1.88l0.59,1.58l8.75,1.98l4.=
-42,0.79l1.87,1.98l5.01,0.4l2.36,1.98l2.16-0.5l1.97-1.78l-3.64-1.68l-3.14-2.=
-67l-8.16-1.98L753.17,358.32L753.17,358.32z"></path><path d=3D"M806.14,368.4=
-2l-5.11,4.26l0.49,1.09l2.16-0.4l2.55-2.38l5.01-0.69l-0.98-1.68L806.14,368.4=
-2L806.14,368.42z"></path><path d=3D"M791.69,367.72l-0.59,1.19l4.42,0.69l3.4=
-4-1.98l-1.96-0.59l-3.14,0.89l-1.18-0.99L791.69,367.72L791.69,367.72z"></pat=
-h><path d=3D"M781.77,366.93l-2.16,1.19l1.28,1.39l3.14-1.19L781.77,366.93L78=
-1.77,366.93z"></path><path d=3D"M785.5,366.04l0.39,1.88l2.26,0.59l0.88-1.09=
-l-0.98-1.49L785.5,366.04L785.5,366.04z"></path><path d=3D"M790.91,370.99l-2=
-.75,0.4l2.46,2.08h1.96L790.91,370.99L790.91,370.99z"></path></g><g id=3D"sb=
-" style=3D"fill: rgb(242, 191, 94);"><path d=3D"M895.43,364.65l0.15,2.28l1.=
-39,1.32l1.31-0.81l-1.17-2.43L895.43,364.65L895.43,364.65z"></path><path d=
+inset hover:skew-y-2 transition svelte-1e50scj">AZURE</span><span class=3D"=
+inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inse=
+t hover:skew-y-2 transition svelte-1e50scj">GIT</span><span class=3D"inline=
+-flex items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hove=
+r:skew-y-2 transition svelte-1e50scj">SQL</span><span class=3D"inline-flex =
+items-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew=
+-y-2 transition svelte-1e50scj">MONGODB</span><span class=3D"inline-flex it=
+ems-center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y=
+-2 transition svelte-1e50scj">LINUX</span><span class=3D"inline-flex items-=
+center rounded-md none px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 t=
+ransition svelte-1e50scj">AGILE</span></div></div></div></div></div> </li><=
+li class=3D"mb-5 ml-4"><div class=3D"absolute w-3 h-3 bg-gray-200 rounded-f=
+ull mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-=
+700"></div> <time class=3D"mb-1 text-sm font-normal leading-none text-accen=
+t">Sept. 2017 - Juil. 2018</time> <div class=3D"card bg-stone-200 dark:bg-s=
+tone-600 shadow-xl rounded-sm"><div class=3D"card-body p-2"><div class=3D"c=
+ollapse collapse-open"><input aria-label=3D"collapse education details" typ=
+e=3D"checkbox"> <div class=3D"collapse-title items-center flex justify-betw=
+een"><h3 class=3D"font-semibold card-title text-sm text-left">My Digital Sc=
+hool - Paris</h3> <div class=3D"text-sm">Licence  RNCP niveau II </div></di=
+v> <div class=3D"collapse-content"><p class=3D"mb-4 text-sm font-normal">Fo=
+rmation intensive en NodeJS, React, Python, Flutter et Kotlin. Apprentissag=
+e de la gestion de bases de donn=C3=A9es SQL et NoSQL et de la m=C3=A9thodo=
+logie Agile.</p> <div><span class=3D"inline-flex items-center rounded-md no=
+ne px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e5=
+0scj">NODEJS</span><span class=3D"inline-flex items-center rounded-md none =
+px-2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50sc=
+j">PYTHON</span><span class=3D"inline-flex items-center rounded-md none px-=
+2 py-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">=
+KOTLIN</span><span class=3D"inline-flex items-center rounded-md none px-2 p=
+y-1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">REA=
+CTJS</span><span class=3D"inline-flex items-center rounded-md none px-2 py-=
+1 text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">FLUTT=
+ER</span><span class=3D"inline-flex items-center rounded-md none px-2 py-1 =
+text-xs ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">SQL</sp=
+an><span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-x=
+s ring-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">NOSQL</span><=
+span class=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ri=
+ng-1 ring-inset hover:skew-y-2 transition svelte-1e50scj">GIT</span><span c=
+lass=3D"inline-flex items-center rounded-md none px-2 py-1 text-xs ring-1 r=
+ing-inset hover:skew-y-2 transition svelte-1e50scj">AGILE</span></div></div=
+></div></div></div> </li></ol> <div class=3D"divider my-14"></div> <div cla=
+ss=3D"stats shadow w-full"><div class=3D"stat p-0 justify-between"><div cla=
+ss=3D"stat-figure text-primary w-72 hidden absolute sm:grid hover:z-20 tran=
+sform-gpu transition overflow-y-hidden"><svg version=3D"1.2" baseProfile=3D=
+"tiny" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.or=
+g/1999/xlink" x=3D"0px" y=3D"0px" width=3D"100%" height=3D"100%" viewBox=3D=
+"9 3 940 530" fill=3D"#262626"><g id=3D"tr"><path d=3D"M558.7,209.19l-2.23,=
+2.36l-8.2-0.24l-4.92-2.95l-4.8-0.12l-5.51,3.9l-5.16,0.24l-0.47,2.95h-5.86l-=
+2.34,2.13v1.18l1.41,1.18v1.3l-0.59,1.54l0.59,1.3l1.88-0.94l1.88,2.01l-0.47,=
+1.42l-0.7,0.95l1.05,1.18l5.16,1.06l3.63-1.54v-2.24l1.76,0.35l4.22,2.48l4.57=
+-0.71l1.99-1.89l1.29,0.47v2.13h1.76l1.52-2.95l13.36-1.42l5.83-0.71l-1.54-2.=
+02l-0.03-2.73l1.17-1.4l-4.26-3.42l0.23-2.95h-2.34L558.7,209.19L558.7,209.19=
+z"></path><path d=3D"M523.02,209.7l-0.16,3.55l3.1-0.95l1.42-0.95l-0.42-1.54=
+l-1.47-1.17L523.02,209.7L523.02,209.7z"></path></g><g id=3D"gr"><path d=3D"=
+M506.71,217.6l-0.11,1.33l4.63,2.33l2.21,0.85l-1.16,1.22l-2.58,0.26l-0.37,1.=
+17l0.89,2.01l2.89,1.54l1.26,0.11l0.16-3.45l1.89-2.28l-5.16-6.1l0.68-2.07l1.=
+21-0.05l1.84,1.48l1.16-0.58l0.37-2.07l5.42,0.05l0.21-3.18l-2.26,1.59l-6.63-=
+0.16l-4.31,2.23L506.71,217.6L506.71,217.6z"></path><path d=3D"M516.76,230.5=
+9l1.63,0.05l0.68,1.01h2.37l1.58-0.58l0.53,0.64l-1.05,1.38l-4.63,0.16l-0.84-=
+1.11l-0.89-0.53L516.76,230.59L516.76,230.59z"></path></g><g id=3D"id"><path=
+ d=3D"M781.68,324.4l-2.31,8.68l-12.53,4.23l-3.75-4.4l-1.82,0.5l3.4,13.12l5.=
+09,0.57l6.79,2.57v2.57l3.11-0.57l4.53-6.27v-5.13l2.55-5.13l2.83,0.57l-3.4-7=
+.13l-0.52-4.59L781.68,324.4L781.68,324.4z"></path><path d=3D"M831.93,339.34=
+l-4.17,0.47l-2.68,1.96l1.11,2.24l4.54,0.84v0.84l-2.87,2.33l1.39,4.85l1.39,0=
+.09l1.2-4.76h2.22l0.93,4.66l10.83,8.96l0.28,7l3.7,4.01l1.67-0.09l0.37-24.72=
+l-6.29-4.38l-5.93,4.01l-2.13,1.31l-3.52-2.24l-0.09-7.09L831.93,339.34L831.9=
+3,339.34z"></path><path d=3D"M789.53,349.11l2.26,2.77l-1.47,4.16v0.79h3.34l=
+1.18-10.4l1.08,0.3l1.96,9.5l1.87,0.5l1.77-4.06l-1.77-6.14l-1.47-2.67l4.62-3=
+.37l-1.08-1.49l-4.42,2.87h-1.18l-2.16-3.17l0.69-1.39l3.64-1.78l5.5,1.68l1.6=
+7-0.1l4.13-3.86l-1.67-1.68l-3.83,2.97h-2.46l-3.73-1.78l-2.65,0.1l-2.95,4.75=
+l-1.87,8.22L789.53,349.11L789.53,349.11z"></path><path d=3D"M814.19,330.5l-=
+1.87,4.55l2.95,3.86h0.98l1.28-2.57l0.69-0.89l-1.28-1.39l-1.87-0.69L814.19,3=
+30.5L814.19,330.5z"></path><path d=3D"M819.99,345.45l-4.03,0.89l-1.18,1.29l=
+0.98,1.68l2.65-0.99l1.67-0.99l2.46,1.98l1.08-0.89l-1.96-2.38L819.99,345.45L=
+819.99,345.45z"></path><path d=3D"M722.48,317.57l-0.28,2.28l6.79,11.41h1.98=
+l14.15,23.67l5.66,0.57l2.83-8.27l-4.53-2.85l-0.85-4.56L722.48,317.57L722.48=
+,317.57z"></path><path d=3D"M753.17,358.32l-2.75,1.88l0.59,1.58l8.75,1.98l4=
+.42,0.79l1.87,1.98l5.01,0.4l2.36,1.98l2.16-0.5l1.97-1.78l-3.64-1.68l-3.14-2=
+.67l-8.16-1.98L753.17,358.32L753.17,358.32z"></path><path d=3D"M806.14,368.=
+42l-5.11,4.26l0.49,1.09l2.16-0.4l2.55-2.38l5.01-0.69l-0.98-1.68L806.14,368.=
+42L806.14,368.42z"></path><path d=3D"M791.69,367.72l-0.59,1.19l4.42,0.69l3.=
+44-1.98l-1.96-0.59l-3.14,0.89l-1.18-0.99L791.69,367.72L791.69,367.72z"></pa=
+th><path d=3D"M781.77,366.93l-2.16,1.19l1.28,1.39l3.14-1.19L781.77,366.93L7=
+81.77,366.93z"></path><path d=3D"M785.5,366.04l0.39,1.88l2.26,0.59l0.88-1.0=
+9l-0.98-1.49L785.5,366.04L785.5,366.04z"></path><path d=3D"M790.91,370.99l-=
+2.75,0.4l2.46,2.08h1.96L790.91,370.99L790.91,370.99z"></path></g><g id=3D"s=
+b" style=3D"fill: rgb(242, 191, 94);"><path d=3D"M895.43,364.65l0.15,2.28l1=
+.39,1.32l1.31-0.81l-1.17-2.43L895.43,364.65L895.43,364.65z"></path><path d=
 =3D"M897.18,370.31l-1.17,1.25l1.24,2.28l1.46,0.44l-0.07-1.54L897.18,370.31L=
 897.18,370.31z"></path><path d=3D"M900.03,368.99l1.02,2.5l1.97,2.35l1.09-1.=
 76l-1.46-2.5L900.03,368.99L900.03,368.99z"></path><path d=3D"M905.14,372.74=
@@ -1641,12 +1641,12 @@ tat py-"><div class=3D"stat-value text-lg capitalize">anglais <div class=3D=
 =A9</div></div> </div></div></div></div> <div class=3D"divider my-14"></div=
 > <div class=3D"stats shadow stats-vertical w-full"><div class=3D"stat"><di=
 v class=3D"stat-figure justify-self-center flex flex-col justify-center tex=
-t-secondary"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://12=
-7.0.0.1:4173/boxing-glove.svg" alt=3D"boxe"></div></div></div> <div class=
+t-secondary"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://lo=
+calhost:4173/boxing-glove.svg" alt=3D"boxe"></div></div></div> <div class=
 =3D"stat-value text-lg capitalize">boxe</div> <div class=3D"stat-desc">angl=
 aise &amp; thai=CC=88landaise</div> </div><div class=3D"stat"><div class=3D=
 "stat-figure justify-self-center flex flex-col justify-center text-secondar=
-y"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://127.0.0.1:41=
+y"><div class=3D"avatar"><div class=3D"w-8"><img src=3D"http://localhost:41=
 73/reading.svg" alt=3D"lecture"></div></div></div> <div class=3D"stat-value=
  text-lg capitalize">lecture</div> <div class=3D"stat-desc">Weber, Maupassa=
 nt</div> </div></div> <div class=3D"mt-2"><div class=3D"flex flex-col items=
@@ -1714,8 +1714,8 @@ ill=3D"#c57d2a" d=3D"M49.686 33.09c-2.647-4.939-4.301-8.86-4.301-8.86c-10.3=
 =3D"#3f4042" d=3D"M13.381 53.623s5.371-13.378 5.02-23.21c0 0 3.398 17.658 7=
 .02 24.757l-12.05-1.544"></path></svg></div></div> <div class=3D"flex flex-=
 col items-center gap-2"><div class=3D"stats shadow w-min"><div class=3D"sta=
-t"><img src=3D"https://cv.bnei.dev/strategy.png" class=3D"max-w-none w-[4=
-4px]" alt=3D"chess"></div> <div class=3D"stat"><img src=3D"http://127.0.0.1=
+t"><img src=3D"http://localhost:4173/strategy.png" class=3D"max-w-none w-[4=
+4px]" alt=3D"chess"></div> <div class=3D"stat"><img src=3D"http://localhost=
 :4173/harmony.png" class=3D"max-w-none w-[44px]" alt=3D"man in harmony"></d=
 iv></div></div> <div class=3D"stats shadow w-min"><div class=3D"stat"><svg =
 width=3D"44" height=3D"44" viewBox=3D"0 0 128 128" xmlns=3D"http://www.w3.o=
@@ -2028,10 +2028,10 @@ x, 0px, 0px); clip-path: inset(50%); overflow: hidden; white-space: nowrap;=
 =09
 
 </body></html>
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/0.3eaae183.css
+Content-Location: http://localhost:4173/_app/immutable/assets/0.3eaae183.css
 
 @charset "utf-8";
 
@@ -3778,10 +3778,10 @@ b(38 38 38 / var(--tw-bg-opacity)); }
   .lg\:columns-2 { columns: 2; }
   .lg\:text-left { text-align: left; }
 }
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/_app/immutable/assets/HeadTags.53b77be7.css
+Content-Location: http://localhost:4173/_app/immutable/assets/HeadTags.53b77be7.css
 
 @charset "utf-8";
 
@@ -3880,7 +3880,7 @@ rgb(31 41 55 / var(--tw-bg-opacity)); }
   .desktop-grid.svelte-1ks3fm9 { display: grid; grid-template: "skill skill=
 " min-content "education experience" auto / 30% auto; gap: 0px; }
 }
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://voconsteroid.com/voconsteroidLogoNT384.png
@@ -4030,10 +4030,10 @@ AABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABG
 EQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAA
 YBQBAABGEQAAYBQBAABGEQAAYBQBAABGEQAAYFEURf8P1Rxy/6Nu9+AAAAAASUVORK5CYII=
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/boxing-glove.svg
+Content-Location: http://localhost:4173/boxing-glove.svg
 
 <svg width=3D"512" height=3D"512" viewBox=3D"0 0 36 36" xmlns=3D"http://www=
 .w3.org/2000/svg">
@@ -4052,10 +4052,10 @@ Content-Location: https://cv.bnei.dev/boxing-glove.svg
 333c0 .92-1.221 1.208-2.326 1.208h-5C15.57 34 15 33.712 15 32.792v-3.333c0-=
 .921.57-1.459 1.674-1.459h5z"/>
 </svg>
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cv.bnei.dev/reading.svg
+Content-Location: http://localhost:4173/reading.svg
 
 <svg width=3D"512" height=3D"512" viewBox=3D"0 0 48 48" xmlns=3D"http://www=
 .w3.org/2000/svg">
@@ -4069,10 +4069,10 @@ Content-Location: https://cv.bnei.dev/reading.svg
 3-3-3z"/>
     </g>
 </svg>
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://cv.bnei.dev/strategy.png
+Content-Location: http://localhost:4173/strategy.png
 
 iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACAASURB
@@ -4436,10 +4436,10 @@ FqIAAADQQhQAAABaiAIAAEALUQAAAGghCgAAAC1EAQAAoIUoAAAAtBAFAACAFqIAAADQQhQAAABa
 KJL0R+sQAABguFxVVdYZAADAkLEFAABAC1EAAABoIQoAAAAt9F9LL9PzoI2q/QAAAABJRU5ErkJg
 gg==
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie----
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://cv.bnei.dev/harmony.png
+Content-Location: http://localhost:4173/harmony.png
 
 iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA
 GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAIABJREFUeJzs3Xd4VFX6wPHvncnM
@@ -5229,4 +5229,4 @@ owdgNNkCABdQC1QaPRAhhBAJsQHoDzQbPRAjyQoANAHnksT1oIUQIonsB84jySd/kADgK+uAmqN/
 CyGE6JxqgWpgvdEDMQPZAmjLAVwCTAIGArmANIwXQghragV2AquBmag5X0l99O9Y/weMQl/eslRo
 8gAAAABJRU5ErkJggg==
 
-------MultipartBoundary--qUZFVVqBXhCwbobEuifg6BM6nFUnqh3zP3Aoj9aQie------
+------MultipartBoundary--Zs0V1402iTBoEaxDe3xWAZjH7ErS4kVZNVT691fpR4------
