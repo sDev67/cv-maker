@@ -6,6 +6,7 @@ pipeline {
           steps {
               echo 'Building the project...'
               // Insert build steps here
+              
           }
       }
       stage('Test') { // Stage 2: Test
