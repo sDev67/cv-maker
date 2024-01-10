@@ -15,9 +15,12 @@ pipeline {
                 echo 'Testing...'
             }
         }
-        stage('sdev') {
+        stage('Print avec date') {
             steps {
-                echo 'jsp...'
+                script {
+                    def dateTime = new Date()
+                    echo "Current date and time: ${dateTime}"
+                }
             }
         }
     }
