@@ -5,7 +5,7 @@ pipeline {
     }
 
   stages {
-    stage('Print') {
+    stage('exo4') {
             steps {
                 echo "${MY_VARIABLE}"
             }
@@ -15,11 +15,20 @@ pipeline {
                 echo 'Testing...'
             }
         }
-        stage('Print avec date') {
+        stage('exo5') {
             steps {
                 script {
                     def dateTime = new Date()
                     echo "Current date and time: ${dateTime}"
+                }
+            }
+        }
+        stage('exo6') {
+            steps {
+                script {
+                    def packageJson = readJSON file: 'package.json'
+                    def version = packageJson.version
+                    echo "The version of this project is ${version}"
                 }
             }
         }
