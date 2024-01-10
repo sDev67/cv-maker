@@ -1,7 +1,7 @@
 pipeline {
   agent any // This tells Jenkins to allocate a workspace and run the pipeline on any available agent
     environment {
-        MY_VARIABLE = 'Hello, Jenkins!'
+        MY_VARIABLE = 'Hello, i am sdev!'
     }
 
   stages {
