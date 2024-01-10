@@ -1,6 +1,10 @@
 pipeline {
   agent any // This tells Jenkins to allocate a workspace and run the pipeline on any available agent
   
+  options {
+    retry(2)
+    }
+
   stages {
       stage('Build') { // Stage 1: Build
           steps {
