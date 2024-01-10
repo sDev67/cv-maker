@@ -17,7 +17,7 @@ pipeline {
         }
         failure {
             mail bcc: '', 
-            body: "<b>Example</b><br>\n\<br>Project jenkins crasg", 
+            body: "pipeline failed", 
             cc: '', 
             charset: 'UTF-8', 
             from: '', 
