@@ -1,7 +1,15 @@
 pipeline {
   agent any // This tells Jenkins to allocate a workspace and run the pipeline on any available agent
+    environment {
+        MY_VARIABLE = 'Hello, Jenkins!'
+    }
 
   stages {
+    stage('Print') {
+            steps {
+                echo "${MY_VARIABLE}"
+            }
+        }
         stage('Test') {
             steps {
                 echo 'Testing..'
@@ -13,33 +21,17 @@ pipeline {
             echo 'HI 1 - This will always run'
         }
         success {
-            mail bcc: '', 
-            body: "pipeline passed successfully",
-            cc: '', 
-            charset: 'UTF-8', 
-            from: '', 
-            mimeType: 'text/html', 
-            replyTo: '', 
-            subject: "Success pipeline: Project", 
-            to: "nhisty.dev@gmail.com";
+            echo 'HI 2 - your pipeline has succeeded'
         }
         failure {
-            mail bcc: '', 
-            body: "pipeline failed", 
-            cc: '', 
-            charset: 'UTF-8', 
-            from: '', 
-            mimeType: 'text/html', 
-            replyTo: '', 
-            subject: "ERROR CI: Project", 
-            to: "nhisty.dev@gmail.com";
+            echo 'HI 3 - your pipeline has failed'
         }
         unstable {
-            echo 'This will run only if the run was marked as unstable'
+            echo 'HI 4 - This will run only if the run was marked as unstable'
         }
         changed {
-            echo 'This will run only if the state of the Pipeline has changed'
-            echo 'For example, if the Pipeline was previously failing but is now successful'
+            echo 'HI 4 - This will run only if the state of the Pipeline has changed'
+            echo 'HI 4 - For example, if the Pipeline was previously failing but is now successful'
         }
     }
 }
