@@ -27,7 +27,7 @@ pipeline {
       }
   }
   post {
-        success {
+        faulure {
             mail to: 'nhisty.dev@gmail.com',
                  subject: 'Pipeline Failure',
                  body: 'The pipeline has failed.'
