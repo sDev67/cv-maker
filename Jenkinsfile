@@ -15,6 +15,11 @@ pipeline {
                 echo 'Testing...'
             }
         }
+        stage('sdev') {
+            steps {
+                echo 'jsp...'
+            }
+        }
     }
   post {
         always {
