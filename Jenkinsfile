@@ -13,7 +13,15 @@ pipeline {
             echo 'HI 1 - This will always run'
         }
         success {
-            echo 'HI 2 - This will run only if successful'
+            mail bcc: '', 
+            body: "pipeline passed successfully",
+            cc: '', 
+            charset: 'UTF-8', 
+            from: '', 
+            mimeType: 'text/html', 
+            replyTo: '', 
+            subject: "Success pipeline: Project", 
+            to: "nhisty.dev@gmail.com";
         }
         failure {
             mail bcc: '', 
